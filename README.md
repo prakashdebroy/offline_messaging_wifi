@@ -29,7 +29,8 @@ This project is a secure chat application that enables encrypted communication b
    ```
 2. Install dependencies using:
    ```bash
-   pip install pycryptodome
+   cd offline_messaging_wifi
+   pip install -r requirements.txt
    ```
 
 ## Usage
