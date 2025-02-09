@@ -1,0 +1,7 @@
+pycriptodome
+pycriptodomex
+socket
+threading
+hashlib
+subprocess
+base64
