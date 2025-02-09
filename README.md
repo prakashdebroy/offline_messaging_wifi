@@ -24,6 +24,9 @@ This project is a secure chat application that enables encrypted communication b
 
 ## Installation
 1. Clone the repository or download the script.
+   ```bash
+   git clone https://github.com/prakashdebroy/offline_messaging_wifi.git
+   ```
 2. Install dependencies using:
    ```bash
    pip install pycryptodome
